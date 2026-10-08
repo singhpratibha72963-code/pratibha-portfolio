@@ -1,0 +1,2 @@
+# No third-party Python packages are required.
+# Vercel's Python runtime provides the standard library used by api/contact.py.
